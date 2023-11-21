@@ -30,6 +30,16 @@ Small animation:
 ![robot_eyes_led_matrix_display](https://github.com/upiir/led_matrix_display_16x8/assets/117754156/75cecd04-5841-4fd6-a35a-cdb826bff73a)
 
 
+![piskel_xeyes](https://github.com/upiir/led_matrix_display_16x8/assets/117754156/202e2522-9ffd-4f8a-8991-35e7f12bef8d)
+
+
+![piskel_talking](https://github.com/upiir/led_matrix_display_16x8/assets/117754156/996d4a6a-6f78-41c1-823a-fb7e56ab1b91)
+
+
+![piskel_laughing](https://github.com/upiir/led_matrix_display_16x8/assets/117754156/f1e77c39-b683-4368-bd9e-4123f99e450b)
+
+
+![piskel_eyesheart](https://github.com/upiir/led_matrix_display_16x8/assets/117754156/5f1b8a31-cb31-4568-aadc-07c25d2c0a3b)
 
 
 
